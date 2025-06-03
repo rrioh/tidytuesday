@@ -1,0 +1,2 @@
+- analyses of the tidytuesday projects
+  - https://github.com/rfordatascience/tidytuesday/tree/main
